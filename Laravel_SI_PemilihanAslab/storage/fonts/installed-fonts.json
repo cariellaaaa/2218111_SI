@@ -1,0 +1,10 @@
+{
+    "montserrat": {
+        "200": "C:\\laragon\\www\\laravel10pt1\\storage\\fonts\/\/montserrat_200_5dad4b8f7dbbffc9afd538576341d998",
+        "normal": "C:\\laragon\\www\\laravel10pt1\\storage\\fonts\/\/montserrat_normal_676431fd5d218b739c7678c3eecff49f",
+        "bold": "montserrat_bold_d25b7f2aa14df3e61a7732d628b71569"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_d726fe9f0eedcde03c194e171054f6d7"
+    }
+}
